@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯👯 I’m looking to collaborate on creative UI/UX design projects! Check out my E-commerce website for an Online Shopping Website and let's work together to bring ideas to life.
+- 👯  I’m looking to collaborate on creative UI/UX design projects! Check out my [E-commerce design for an Online Shopping Website](https://github.com/alsfimayo/E-commerce) and let's work together to bring ideas to life.
 
--  I’m looking for feedback and collaboration on my E-commerce design for an Online Shopping Website. If you're passionate about UI/UX design or have ideas for improvement, let's connect!
+🤝 I’m looking for feedback and collaboration on my [E-commerce design for an Online Shopping Website](https://github.com/alsfimayo/E-commerce). If you're passionate about UI/UX design or have ideas for improvement, let's connect!
 
 - 👨‍💻 All of my projects are available at [https://github.com/alsfimayo](https://github.com/alsfimayo)
 
