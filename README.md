@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsfimayo" alt="alsfimayo" /></a> </p>
 
-- 🔭 I’m currently working on [figma design](https://www.figma.com/design/XQBaq4vHtz2sduR0mbcthb/Online-Shopping-Website-Design---eCommerce-Store-Website---UI-Kit-(Community)?t=hEsx1HqRBtGvtNM2-0)
+- 🔭 I’m currently working on [E-commerce Website](https://github.com/alsfimayo/E-commerce)
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on [figma design](https://www.figma.com/design/XQBaq4vHtz2sduR0mbcthb/Online-Shopping-Website-Design---eCommerce-Store-Website---UI-Kit-(Community)?t=hEsx1HqRBtGvtNM2-0)
+- 👯👯 I’m looking to collaborate on creative UI/UX design projects! Check out my E-commerce website for an Online Shopping Website and let's work together to bring ideas to life.
 
-- 🤝 I’m looking for help with [figma design](https://www.figma.com/design/XQBaq4vHtz2sduR0mbcthb/Online-Shopping-Website-Design---eCommerce-Store-Website---UI-Kit-(Community)?t=hEsx1HqRBtGvtNM2-0)
+-  I’m looking for feedback and collaboration on my E-commerce design for an Online Shopping Website. If you're passionate about UI/UX design or have ideas for improvement, let's connect!
 
 - 👨‍💻 All of my projects are available at [https://github.com/alsfimayo](https://github.com/alsfimayo)
 
